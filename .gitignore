@@ -1,0 +1,15 @@
+# This repository contains presentation materials only.
+*.zip
+*.rar
+*.7z
+*.sql
+*.pem
+*.key
+.env
+.env.*
+application*.yml
+application*.yaml
+node_modules/
+target/
+dist/
+__pycache__/

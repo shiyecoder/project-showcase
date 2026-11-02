@@ -1,0 +1,380 @@
+﻿项目编号,项目名称,技术方向,详情页,界面预览,本地演示视频
+005,供应商准入与绩效评价管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-005,有,有，按需领取
+006,企业采购询价比价与审批管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-006,有,有，按需领取
+007,制造企业质量异常与纠正措施管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-007,有,有，按需领取
+008,食品安全留样与检测管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-008,有,有，按需领取
+009,农产品批次质量溯源管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-009,有,有，按需领取
+010,社区消防设施巡检与隐患整改系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-010,有,有，按需领取
+011,智慧园区访客预约与通行管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-011,有,有，按需领取
+012,公共机构能耗抄表与节能分析系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-012,有,有，按需领取
+013,城乡垃圾清运调度与台账管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-013,有,有，按需领取
+014,城市井盖巡检与维修工单管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-014,有,有，按需领取
+015,河道巡查与水环境问题处置系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-015,有,有，按需领取
+016,古树名木养护档案管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-016,有,有，按需领取
+017,农田灌溉计划与用水统计系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-017,有,有，按需领取
+018,温室种植任务与农事记录管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-018,有,有，按需领取
+019,水产养殖批次与水质监测管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-019,有,有，按需领取
+020,农机作业派单与服务结算管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-020,有,有，按需领取
+021,高校勤工助学岗位与考勤管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-021,有,有，按需领取
+022,高校奖助学金申请与评审管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-022,有,有，按需领取
+023,学生请销假与晚归统计管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-023,有,有，按需领取
+024,大学生实习过程与周报管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-024,有,有，按需领取
+025,职业技能培训报名与证书管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-025,有,有，按需领取
+026,校内公共场地借用与审批管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-026,有,有，按需领取
+027,教师教研活动与成果管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-027,有,有，按需领取
+028,校友活动与捐赠项目管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-028,有,有，按需领取
+029,社区文化活动与志愿时长管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-029,有,有，按需领取
+030,公益物资捐赠与发放追踪系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-030,有,有，按需领取
+031,残障辅助器具借用与维护管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-031,有,有，按需领取
+032,养老机构膳食营养与用餐管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-032,有,有，按需领取
+034,医疗废物收集转运与交接管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-034,有,有，按需领取
+035,体检预约与报告领取管理系统,Spring Boot / Vue / MySQL,catalog/business-01.md#p-035,有,有，按需领取
+036,居民健康随访任务与风险分层系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-036,有,有，按需领取
+037,体育场馆预约与赛事排期管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-037,有,有，按需领取
+038,户外俱乐部活动报名与安全管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-038,有,有，按需领取
+039,艺术培训机构排课与课时消耗管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-039,有,有，按需领取
+040,乐器租赁与维修工单管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-040,有,有，按需领取
+041,非遗工坊课程预约与作品档案系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-041,有,有，按需领取
+042,沉浸式剧场场次预约与门店管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-042,有,有，按需领取
+043,露营地营位预约与物资租赁管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-043,有,有，按需领取
+044,民宿房态与保洁协同管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-044,有,有，按需领取
+045,汽车维修工单与配件领用管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-045,有,有，按需领取
+046,二手车检测评估与车辆档案管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-046,有,有，按需领取
+047,快递驿站出入库与滞留预警系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-047,有,有，按需领取
+048,物流车辆调度与运单跟踪管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-048,有,有，按需领取
+049,企业培训计划与学分管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-049,有,有，按需领取
+050,客诉工单与服务质量分析系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-050,有,有，按需领取
+051,校园二手物品交易平台,Spring Boot / Vue / MySQL,catalog/business-02.md#p-051,有,有，按需领取
+052,在线课程学习与考试系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-052,有,有，按需领取
+053,高校智能题库与错题本系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-053,有,有，按需领取
+054,毕业论文选题与过程管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-054,有,有，按需领取
+055,实验室安全准入与考核系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-055,有,有，按需领取
+056,学生社团活动与经费管理系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-056,有,有，按需领取
+057,校园宿舍报修与卫生检查系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-057,有,有，按需领取
+058,家校沟通与作业布置系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-058,有,有，按需领取
+059,考研自习室座位预约与学习打卡系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-059,有,有，按需领取
+060,编程课程作业提交与互评系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-060,有,有，按需领取
+061,生鲜果蔬社区团购系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-061,有,有，按需领取
+062,外卖点餐与骑手配送系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-062,有,有，按需领取
+063,网上书店与图书销售系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-063,有,有，按需领取
+064,母婴用品商城与会员营销系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-064,有,有，按需领取
+065,美妆护肤商城与试用装派发系统,Spring Boot / Vue / MySQL,catalog/business-02.md#p-065,有,有，按需领取
+067,农产品直销助农电商平台,Spring Boot / Vue / MySQL,catalog/business-03.md#p-067,有,有，按需领取
+068,跨境电商商品与订单管理系统,Spring Boot / Vue / MySQL,catalog/business-03.md#p-068,有,有，按需领取
+070,校园超市线上订货与自提系统,Spring Boot / Vue / MySQL,catalog/business-03.md#p-070,有,有，按需领取
+073,宠物领养与救助管理系统,Spring Boot / Vue / MySQL,catalog/business-03.md#p-073,有,有，按需领取
+NEW-001,基于SpringBoot+Vue的互联网医院在线问诊与处方流转系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-001,有,有，按需领取
+NEW-002,基于SpringBoot+Vue的社区家庭医生签约与随访管理系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-002,有,有，按需领取
+NEW-003,基于SpringBoot+Vue的康复训练计划与效果评估系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-003,有,有，按需领取
+NEW-004,基于SpringBoot+Vue的中医理疗馆预约与疗程管理系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-004,有,有，按需领取
+NEW-005,基于SpringBoot+Vue的口腔诊所诊疗与复诊提醒系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-005,有,有，按需领取
+NEW-006,基于SpringBoot+Vue的体检报告解读与健康风险预警系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-006,有,有，按需领取
+NEW-007,基于SpringBoot+Vue的疫苗预约与接种追溯系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-007,有,有，按需领取
+NEW-008,基于SpringBoot+Vue的安宁疗护志愿者服务管理系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-008,有,有，按需领取
+NEW-009,基于SpringBoot+Vue的母婴护理月嫂派单与评价系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-009,有,有，按需领取
+NEW-010,基于SpringBoot+Vue的慢病用药提醒与依从性分析系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-010,有,有，按需领取
+NEW-011,基于SpringBoot+Vue的研学旅行课程与安全保障管理系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-011,有,有，按需领取
+NEW-012,基于SpringBoot+Vue的幼儿园家园共育与成长档案系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-012,有,有，按需领取
+NEW-013,基于SpringBoot+Vue的素质教育机构排课与消课系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-013,有,有，按需领取
+NEW-014,基于SpringBoot+Vue的职业资格考证报名与题库训练系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-014,有,有，按需领取
+NEW-015,基于SpringBoot+Vue的校企合作实习管理与过程考核系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-015,有,有，按需领取
+NEW-016,基于SpringBoot+Vue的高校实验室安全准入与危化品管理系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-016,有,有，按需领取
+NEW-017,基于SpringBoot+Vue的中小学课后服务选课与经费管理系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-017,有,有，按需领取
+NEW-018,基于SpringBoot+Vue的在线一对一辅导匹配与课堂质量监控系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-018,有,有，按需领取
+NEW-019,基于SpringBoot+Vue的教师职称评审材料流转与打分系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-019,有,有，按需领取
+NEW-020,基于SpringBoot+Vue的校园心理预警与危机干预系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-020,有,有，按需领取
+NEW-021,基于SpringBoot+Vue的即时零售门店拣货与骑手调度系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-021,待补充,有，按需领取
+NEW-022,基于SpringBoot+Vue的社区团购团长管理与分佣结算系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-022,有,有，按需领取
+NEW-023,基于SpringBoot+Vue的预制菜订购与冷链配送追溯系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-023,有,有，按需领取
+NEW-024,基于SpringBoot+Vue的二手奢侈品鉴定与寄售交易系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-024,有,有，按需领取
+NEW-025,基于SpringBoot+Vue的潮玩盲盒抽盒与库存盲池管理系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-025,有,有，按需领取
+NEW-026,基于SpringBoot+Vue的直播电商选品与达人合作管理系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-026,有,有，按需领取
+NEW-027,基于SpringBoot+Vue的跨境电商多店铺订单与报关管理系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-027,有,有，按需领取
+NEW-028,基于SpringBoot+Vue的生鲜门店损耗管理与智能补货系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-028,有,有，按需领取
+NEW-029,基于SpringBoot+Vue的会员储值与积分营销系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-029,有,有，按需领取
+NEW-030,基于SpringBoot+Vue的退货换货逆向物流管理系统,Spring Boot / Vue / MySQL,catalog/new-01.md#p-new-030,有,有，按需领取
+NEW-031,基于SpringBoot+Vue的家政服务派单与人员信用管理系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-031,有,有，按需领取
+NEW-032,基于SpringBoot+Vue的上门维修工单与备件管理系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-032,有,有，按需领取
+NEW-033,基于SpringBoot+Vue的干洗连锁收衣取衣与洗涤追溯系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-033,有,有，按需领取
+NEW-034,基于SpringBoot+Vue的宠物殡葬与纪念服务管理系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-034,有,有，按需领取
+NEW-035,基于SpringBoot+Vue的婚庆策划流程与供应商协同系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-035,有,有，按需领取
+NEW-036,基于SpringBoot+Vue的旅拍预约与修片交付管理系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-036,有,有，按需领取
+NEW-037,基于SpringBoot+Vue的露营营地预订与装备租赁系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-037,有,有，按需领取
+NEW-038,基于SpringBoot+Vue的房车租赁与营地水电桩管理系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-038,有,有，按需领取
+NEW-039,基于SpringBoot+Vue的代驾订单调度与司机安全管理系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-039,有,有，按需领取
+NEW-040,基于SpringBoot+Vue的汽车美容连锁会员与工位预约系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-040,有,有，按需领取
+NEW-041,基于SpringBoot+Vue的非遗手工艺体验课程与作品展销系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-041,有,有，按需领取
+NEW-042,基于SpringBoot+Vue的红色旅游研学路线与讲解预约系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-042,有,有，按需领取
+NEW-043,基于SpringBoot+Vue的博物馆数字藏品与线上展厅系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-043,有,有，按需领取
+NEW-044,基于SpringBoot+Vue的景区智慧导览与语音讲解系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-044,有,有，按需领取
+NEW-045,基于SpringBoot+Vue的民宿房态与周边玩乐推荐系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-045,有,有，按需领取
+NEW-046,基于SpringBoot+Vue的演出票务实名核销与入场检票系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-046,有,有，按需领取
+NEW-047,基于SpringBoot+Vue的茶文化旅游体验与茶园认养系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-047,有,有，按需领取
+NEW-048,基于SpringBoot+Vue的乡村民宿联盟分销与结算系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-048,有,有，按需领取
+NEW-049,基于SpringBoot+Vue的城市漫步路线共创与打卡系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-049,有,有，按需领取
+NEW-050,基于SpringBoot+Vue的旅拍素材版权登记与授权系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-050,有,有，按需领取
+NEW-051,基于SpringBoot+Vue的健身房私教课程与体测档案系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-051,有,有，按需领取
+NEW-052,基于SpringBoot+Vue的瑜伽馆约课与会员卡管理系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-052,有,有，按需领取
+NEW-053,基于SpringBoot+Vue的飞盘俱乐部活动组织与组队系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-053,有,有，按需领取
+NEW-054,基于SpringBoot+Vue的骑行俱乐部路线规划与安全打卡系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-054,待补充,有，按需领取
+NEW-055,基于SpringBoot+Vue的马拉松赛事报名与成绩证书系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-055,有,有，按需领取
+NEW-056,基于SpringBoot+Vue的滑雪场雪票与装备租赁系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-056,有,有，按需领取
+NEW-058,基于SpringBoot+Vue的青少年体育培训考级与成长档案系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-058,有,有，按需领取
+NEW-059,基于SpringBoot+Vue的电竞馆机位预约与赛事组织系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-059,有,有，按需领取
+NEW-061,基于SpringBoot+Vue的企业费用报销与预算控制系统,Spring Boot / Vue / MySQL,catalog/new-02.md#p-new-061,有,有，按需领取
+A-001,基于Django+Spark的医药数据分析系统的设计与实现,Django / Spark,catalog/archive-01.md#p-a-001,待补充,待确认
+A-002,基于Django+Vue的专业课程考研互助平台的设计与实现,Django / Vue,catalog/archive-01.md#p-a-002,待补充,有，按需领取
+A-003,基于Django+Vue的个性化阅读推荐与可视化分析系统,Django / Vue,catalog/archive-01.md#p-a-003,待补充,有，按需领取
+A-004,基于Django+Vue的天气查询与预警提示系统设计,Django / Vue,catalog/archive-01.md#p-a-004,待补充,有，按需领取
+A-005,基于Django+Vue的毕业生就业数据分析管理可视化系统的设计与实现,Django / Vue,catalog/archive-01.md#p-a-005,待补充,有，按需领取
+A-006,基于Django+Vue的篮球赛事管理,Django / Vue,catalog/archive-01.md#p-a-006,待补充,待确认
+A-007,基于Django+Vue的能源管理与需求响应系统设计与实现,Django / Vue,catalog/archive-01.md#p-a-007,待补充,有，按需领取
+A-008,基于FastAPI+Vue的Webshell检测平台的设计与实现,Vue,catalog/archive-01.md#p-a-008,待补充,待确认
+A-009,基于fastapi+vue的在线音乐网站,Vue,catalog/archive-01.md#p-a-009,待补充,有，按需领取
+A-010,基于FastAPI+Vue的本地文档智能问答系统的设计与实现,Vue,catalog/archive-01.md#p-a-010,待补充,待确认
+A-011,基于FastAPI+Vue的毕业论文选题智能推荐系统的设计与实现,Vue,catalog/archive-01.md#p-a-011,待补充,有，按需领取
+A-012,基于FastAPI+Vue的短视频生成平台的设计与实现,Vue,catalog/archive-01.md#p-a-012,待补充,有，按需领取
+A-013,基于Flask+Vue的中学生行为数据可视化分析系统设计与实现,Flask / Vue,catalog/archive-01.md#p-a-013,待补充,待确认
+A-014,基于Flask+Vue的大学生心理健康助手系统设计与实现,Flask / Vue,catalog/archive-01.md#p-a-014,待补充,有，按需领取
+A-015,基于Flask+Vue的学生成绩分析系统设计与实现,Flask / Vue,catalog/archive-01.md#p-a-015,待补充,有，按需领取
+A-016,基于Flask+Vue的校园二手物品交易平台的设计与实现,Flask / Vue,catalog/archive-01.md#p-a-016,待补充,有，按需领取
+A-017,基于Flask+Vue的校园闲置资源回收系统,Flask / Vue,catalog/archive-01.md#p-a-017,待补充,有，按需领取
+A-018,基于Flask+Vue的电影推荐,Flask / Vue,catalog/archive-01.md#p-a-018,待补充,有，按需领取
+A-019,基于Flask+Vue的电影推荐系统的设计与实现,Flask / Vue,catalog/archive-01.md#p-a-019,待补充,有，按需领取
+A-020,基于Flask+Vue的癌症数据分析与可视化系统,Flask / Vue,catalog/archive-01.md#p-a-020,待补充,有，按需领取
+A-021,基于Flask+Vue的短视频联合推荐与评分预测,Flask / Vue,catalog/archive-01.md#p-a-021,待补充,有，按需领取
+A-022,基于Flask+Vue的社区养老服务数据分析系统的设计与实现,Flask / Vue,catalog/archive-01.md#p-a-022,待补充,有，按需领取
+A-023,基于Flask+Vue的车企客户流失预测系统的设计与实现,Flask / Vue,catalog/archive-01.md#p-a-023,待补充,待确认
+A-024,基于Flask+Vue的面向AI Agent探测式负载的区块链,Flask / Vue,catalog/archive-01.md#p-a-024,待补充,有，按需领取
+A-025,基于Flask+微信小程序的校园二手物品交易Web小程序设计与实现,Flask,catalog/archive-01.md#p-a-025,待补充,有，按需领取
+A-026,基于Flask+微信小程序的社区生活便民互助平台设计与实现,Flask,catalog/archive-01.md#p-a-026,待补充,有，按需领取
+A-027,基于Flask的京东电商手机销售数据分析系统设计与实现,Flask,catalog/archive-01.md#p-a-027,待补充,待确认
+A-028,基于Flask的博客网站设计与实现,Flask,catalog/archive-01.md#p-a-028,待补充,有，按需领取
+A-029,基于Flask的高唐县医院药房取药管理平台的设计与实现,Flask,catalog/archive-01.md#p-a-029,待补充,待确认
+A-030,基于html5的旅游信息管理系统的设计与实现,见项目说明,catalog/archive-01.md#p-a-030,待补充,有，按需领取
+A-031,基于HTML5的森林环保,见项目说明,catalog/archive-02.md#p-a-031,待补充,有，按需领取
+A-032,基于JavaWeb+Vue的企业办公用品申领管理系统设计与实现,Vue / Java,catalog/archive-02.md#p-a-032,待补充,待确认
+A-033,基于JavaWeb+Vue的医疗器械销售管理系统的设计,Vue / Java,catalog/archive-02.md#p-a-033,待补充,有，按需领取
+A-034,基于JavaWeb+Vue的宠物领养管理系统的设计与实现,Vue / Java,catalog/archive-02.md#p-a-034,待补充,待确认
+A-035,基于JavaWeb的多角色协同的汽车文化交易平台的设计与实现,Java,catalog/archive-02.md#p-a-035,待补充,有，按需领取
+A-036,基于JavaWeb的学生公寓管理系统的设计与实现,Java,catalog/archive-02.md#p-a-036,待补充,有，按需领取
+A-037,基于JavaWeb的教育督导管理系统的设计与实现,Java,catalog/archive-02.md#p-a-037,待补充,有，按需领取
+A-038,基于JavaWeb的电车充电桩管理系统的设计与实现,Java,catalog/archive-02.md#p-a-038,待补充,有，按需领取
+A-039,基于JavaWeb的社区高血压慢性病健康管理系统设计与实现,Java,catalog/archive-02.md#p-a-039,待补充,有，按需领取
+A-040,基于JavaWeb的高校实验室管理系统的设计与实现,Java,catalog/archive-02.md#p-a-040,待补充,待确认
+A-041,基于PHP的企业人事信息管理系统,见项目说明,catalog/archive-02.md#p-a-041,待补充,待确认
+A-042,基于PHP的博物馆管理系统,见项目说明,catalog/archive-02.md#p-a-042,待补充,待确认
+A-043,基于Python+PHP+Vue的垃圾分类查询与知识普及平台的设计与实现,Python / Vue,catalog/archive-02.md#p-a-043,待补充,待确认
+A-044,基于Python+PHP+微信小程序的农产品在线销售与微信小程序管理系统,Python,catalog/archive-02.md#p-a-044,待补充,有，按需领取
+A-045,基于Python+微信小程序的慢性病患者健康管理系统的设计与实现,Python,catalog/archive-02.md#p-a-045,待补充,有，按需领取
+A-046,基于Python的商品房优选系统分析研究,Python,catalog/archive-02.md#p-a-046,待补充,待确认
+A-047,基于Spring Boot传媒公司员工管理系统的设计与实现,见项目说明,catalog/archive-02.md#p-a-047,待补充,待确认
+A-048,基于SpringBoot+uni-app+微信小程序的蛋糕店微信小程序的设计与开发,SpringBoot,catalog/archive-02.md#p-a-048,待补充,待确认
+A-049,基于SpringBoot+uni-app的赛事助手,SpringBoot,catalog/archive-02.md#p-a-049,待补充,待确认
+A-050,基于SpringBoot+Vue家具定制平台的设计与实现,SpringBoot / Vue,catalog/archive-02.md#p-a-050,待补充,有，按需领取
+A-051,基于SpringBoot+Vue的BS架构的校园智慧报修系统,SpringBoot / Vue,catalog/archive-02.md#p-a-051,待补充,有，按需领取
+A-052,基于SpringBoot+vue的web端大学生健康打卡与运动管理系统,SpringBoot / Vue,catalog/archive-02.md#p-a-052,待补充,有，按需领取
+A-053,基于SpringBoot+Vue的个人健康信息管理系统的设计与实现,SpringBoot / Vue,catalog/archive-02.md#p-a-053,待补充,有，按需领取
+A-054,基于SpringBoot+Vue的个性化旅游路线推荐系统的设计与实现,SpringBoot / Vue,catalog/archive-02.md#p-a-054,待补充,有，按需领取
+A-055,基于SpringBoot+Vue的个性化自习室座位预约系统,SpringBoot / Vue,catalog/archive-02.md#p-a-055,待补充,有，按需领取
+A-056,基于SpringBoot+Vue的中国男子篮球职业联赛数据采集分析系统的设计与实现,SpringBoot / Vue,catalog/archive-02.md#p-a-056,待补充,待确认
+A-057,基于SpringBoot+Vue的临期食品监管平台设计,SpringBoot / Vue,catalog/archive-02.md#p-a-057,待补充,有，按需领取
+A-058,基于SpringBoot+Vue的书画文化宣传网站的设计与实现,SpringBoot / Vue,catalog/archive-02.md#p-a-058,待补充,有，按需领取
+A-059,基于SpringBoot+Vue的亲子摄影预约管理系统设计与实现,SpringBoot / Vue,catalog/archive-02.md#p-a-059,待补充,有，按需领取
+A-060,基于SpringBoot+Vue的人工智能通识课在线学习平台,SpringBoot / Vue,catalog/archive-02.md#p-a-060,待补充,有，按需领取
+A-061,基于SpringBoot+Vue的仓储管理系统WMS的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-061,待补充,有，按需领取
+A-062,基于SpringBoot+Vue的企业仓储管理系统,SpringBoot / Vue,catalog/archive-03.md#p-a-062,待补充,有，按需领取
+A-063,基于SpringBoot+Vue的企业合规智能审查系统设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-063,待补充,有，按需领取
+A-064,基于SpringBoot+Vue的企业员工智能信息交流平台的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-064,待补充,有，按需领取
+A-065,基于SpringBoot+Vue的企业级通用权限管理系统的设计与开发,SpringBoot / Vue,catalog/archive-03.md#p-a-065,待补充,有，按需领取
+A-066,基于SpringBoot+Vue的企业设备信息维护系统,SpringBoot / Vue,catalog/archive-03.md#p-a-066,待补充,有，按需领取
+A-067,基于SpringBoot+Vue的企业进销存管理系统的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-067,待补充,有，按需领取
+A-068,基于SpringBoot+Vue的住宅小区物业管理系统设计与,SpringBoot / Vue,catalog/archive-03.md#p-a-068,待补充,有，按需领取
+A-069,基于SpringBoot+Vue的关于王者荣耀游戏论坛的网站管理系统,SpringBoot / Vue,catalog/archive-03.md#p-a-069,待补充,有，按需领取
+A-070,基于SpringBoot+Vue的养殖基地出租管理系统的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-070,待补充,有，按需领取
+A-071,基于SpringBoot+Vue的养生保健信息交流论坛的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-071,待补充,有，按需领取
+A-072,基于springboot+vue的写作助手的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-072,待补充,有，按需领取
+A-073,基于SpringBoot+Vue的农产品管理系统的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-073,待补充,有，按需领取
+A-074,基于SpringBoot+Vue的农产品销售系统,SpringBoot / Vue,catalog/archive-03.md#p-a-074,待补充,有，按需领取
+A-075,基于SpringBoot+Vue的医院信息管理系统的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-075,待补充,有，按需领取
+A-076,基于SpringBoot+Vue的医院后勤保障服务系统设计与开发,SpringBoot / Vue,catalog/archive-03.md#p-a-076,待补充,有，按需领取
+A-077,基于SpringBoot+Vue的博物馆文物管理系统设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-077,待补充,有，按需领取
+A-078,基于SpringBoot+Vue的博物馆线上数字化展示,SpringBoot / Vue,catalog/archive-03.md#p-a-078,待补充,有，按需领取
+A-079,基于SpringBoot+Vue的周边交易系统的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-079,待补充,有，按需领取
+A-080,基于SpringBoot+Vue的咖啡店管理系统的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-080,待补充,有，按需领取
+A-081,基于SpringBoot+Vue的咖啡馆管理系统,SpringBoot / Vue,catalog/archive-03.md#p-a-081,待补充,有，按需领取
+A-082,基于SpringBoot+Vue的商超进销存信息管理系统设计,SpringBoot / Vue,catalog/archive-03.md#p-a-082,待补充,有，按需领取
+A-083,基于SpringBoot+Vue的喀什好物——喀什特产数字化展示与推广网站设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-083,待补充,有，按需领取
+A-084,基于SpringBoot+Vue的图书管理系统,SpringBoot / Vue,catalog/archive-03.md#p-a-084,待补充,有，按需领取
+A-085,基于SpringBoot+Vue的图书馆占座行为举报与巡查系统设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-085,待补充,有，按需领取
+A-086,基于SpringBoot+vue的在线商城系统的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-086,待补充,有，按需领取
+A-087,基于SpringBoot+Vue的在线点餐系统,SpringBoot / Vue,catalog/archive-03.md#p-a-087,待补充,有，按需领取
+A-088,基于SpringBoot+Vue的在线编程与自动判题系统的设计与实现,SpringBoot / Vue,catalog/archive-03.md#p-a-088,待补充,有，按需领取
+A-089,基于SpringBoot+Vue的在线考试,SpringBoot / Vue,catalog/archive-03.md#p-a-089,待补充,有，按需领取
+A-090,基于SpringBoot+Vue的在线考试系统,SpringBoot / Vue,catalog/archive-03.md#p-a-090,待补充,有，按需领取
+A-091,基于SpringBoot+Vue的在线课程学习平台设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-091,待补充,有，按需领取
+A-092,基于SpringBoot+Vue的在线陪诊预约系统的设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-092,待补充,有，按需领取
+A-093,基于SpringBoot+Vue的在线音乐网站设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-093,待补充,有，按需领取
+A-094,基于SpringBoot+Vue的基于spring boot高校学生课程选择管理系统,SpringBoot / Vue,catalog/archive-04.md#p-a-094,待补充,有，按需领取
+A-095,基于SpringBoot+Vue的基于SpringBoot+vue.js养老管理系统,SpringBoot / Vue,catalog/archive-04.md#p-a-095,待补充,有，按需领取
+A-096,基于SpringBoot+Vue的基于SpringBoot+Vue高考志愿填报系统,SpringBoot / Vue,catalog/archive-04.md#p-a-096,待补充,有，按需领取
+A-097,基于SpringBoot+Vue的基于SpringBoot制造企业保密管理体系构建,SpringBoot / Vue,catalog/archive-04.md#p-a-097,待补充,有，按需领取
+A-098,基于SpringBoot+Vue的基于springboot海博锐斯羽毛球俱乐部管理信息系统分析与设计,SpringBoot / Vue,catalog/archive-04.md#p-a-098,待补充,有，按需领取
+A-099,基于SpringBoot+Vue的基于springboot电子宠物社区设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-099,待补充,有，按需领取
+A-100,基于SpringBoot+Vue的基于springboot菜谱点评系统,SpringBoot / Vue,catalog/archive-04.md#p-a-100,待补充,待确认
+A-101,基于SpringBoot+Vue的堤防工程文档管理系统,SpringBoot / Vue,catalog/archive-04.md#p-a-101,待补充,有，按需领取
+A-102,基于SpringBoot+Vue的多囊卵巢综合征知识服务平台设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-102,待补充,有，按需领取
+A-103,基于SpringBoot+Vue的多角色协同图像标注平台设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-103,待补充,有，按需领取
+A-104,基于SpringBoot+Vue的大学生心理健康测评与分析系统的设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-104,待补充,有，按需领取
+A-105,基于SpringBoot+Vue的天天小吃美食网站设计与开发,SpringBoot / Vue,catalog/archive-04.md#p-a-105,待补充,有，按需领取
+A-106,基于SpringBoot+Vue的天气大屏,SpringBoot / Vue,catalog/archive-04.md#p-a-106,待补充,待确认
+A-107,基于SpringBoot+Vue的学习系统的设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-107,待补充,有，按需领取
+A-108,基于SpringBoot+Vue的学生作业管理和抄袭检测系统,SpringBoot / Vue,catalog/archive-04.md#p-a-108,待补充,有，按需领取
+A-109,基于SpringBoot+Vue的学生宿舍管理系统,SpringBoot / Vue,catalog/archive-04.md#p-a-109,待补充,有，按需领取
+A-110,基于SpringBoot+Vue的学生宿舍管理系统的安全设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-110,待补充,有，按需领取
+A-111,基于SpringBoot+Vue的学生社团管理系统的设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-111,有,待确认
+A-112,基于SpringBoot+Vue的学生选课系统设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-112,待补充,有，按需领取
+A-113,基于SpringBoot+Vue的宁大科院毕业生信息跟踪与服务平台的设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-113,待补充,有，按需领取
+A-114,基于SpringBoot+Vue的实时通信系统,SpringBoot / Vue,catalog/archive-04.md#p-a-114,待补充,有，按需领取
+A-115,基于SpringBoot+Vue的实验室管理系统的设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-115,待补充,有，按需领取
+A-116,基于SpringBoot+Vue的宠物之家管理系统设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-116,待补充,待确认
+A-117,基于SpringBoot+Vue的宠物寄养平台的设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-117,待补充,有，按需领取
+A-118,基于SpringBoot+Vue的宠物用品在线订购系统的设计与实现,SpringBoot / Vue,catalog/archive-04.md#p-a-118,待补充,有，按需领取
+A-119,基于SpringBoot+Vue的宠物领养管理系统,SpringBoot / Vue,catalog/archive-04.md#p-a-119,待补充,有，按需领取
+A-120,基于SpringBoot+Vue的宠物领养管理系统（二）,SpringBoot / Vue,catalog/archive-04.md#p-a-120,待补充,有，按需领取
+A-121,基于SpringBoot+Vue的家具购买系统的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-121,待补充,有，按需领取
+A-122,基于SpringBoot+Vue的小区物业报修系统的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-122,待补充,有，按需领取
+A-123,基于SpringBoot+Vue的居民小区物业管理系统,SpringBoot / Vue,catalog/archive-05.md#p-a-123,待补充,有，按需领取
+A-124,基于SpringBoot+Vue的工业数据跨平台共享接口设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-124,待补充,待确认
+A-125,基于SpringBoot+Vue的希望小学校园运动健康系统设计,SpringBoot / Vue,catalog/archive-05.md#p-a-125,待补充,有，按需领取
+A-126,基于SpringBoot+Vue的广科大社团活动管理系统设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-126,待补充,有，按需领取
+A-127,基于SpringBoot+Vue的开封水务预定与配送管理信息系统的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-127,待补充,有，按需领取
+A-128,基于SpringBoot+Vue的心晴校园,SpringBoot / Vue,catalog/archive-05.md#p-a-128,待补充,待确认
+A-129,基于SpringBoot+Vue的心理咨询师考试报名网站,SpringBoot / Vue,catalog/archive-05.md#p-a-129,待补充,有，按需领取
+A-130,基于SpringBoot+Vue的房屋租赁管理系统的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-130,待补充,有，按需领取
+A-131,基于SpringBoot+Vue的手办交易全流程与社群互动一体化平台,SpringBoot / Vue,catalog/archive-05.md#p-a-131,待补充,有，按需领取
+A-132,基于SpringBoot+Vue的手办盲盒销售系统的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-132,待补充,有，按需领取
+A-133,基于SpringBoot+Vue的手机仓库管理系统的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-133,待补充,有，按需领取
+A-134,基于SpringBoot+Vue的拾珠记珠串类产品电商平台的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-134,待补充,有，按需领取
+A-135,基于SpringBoot+Vue的摄影创作社区平台,SpringBoot / Vue,catalog/archive-05.md#p-a-135,待补充,待确认
+A-136,基于SpringBoot+Vue的文献共享平台的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-136,待补充,有，按需领取
+A-137,基于SpringBoot+Vue的新媒体共享摄影系统,SpringBoot / Vue,catalog/archive-05.md#p-a-137,待补充,有，按需领取
+A-138,基于SpringBoot+Vue的旅游伙伴匹配系统,SpringBoot / Vue,catalog/archive-05.md#p-a-138,待补充,有，按需领取
+A-139,基于SpringBoot+Vue的智慧农场农机管理信息系统,SpringBoot / Vue,catalog/archive-05.md#p-a-139,待补充,有，按需领取
+A-140,基于SpringBoot+Vue的智慧办公OA系统设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-140,待补充,有，按需领取
+A-141,基于SpringBoot+Vue的智慧社区宠物管理平台的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-141,待补充,待确认
+A-142,基于SpringBoot+Vue的智能仓储管理系统设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-142,待补充,有，按需领取
+A-143,基于SpringBoot+Vue的智能医院门诊管理系统,SpringBoot / Vue,catalog/archive-05.md#p-a-143,待补充,有，按需领取
+A-144,基于SpringBoot+Vue的智能宠物健康管理的系统设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-144,待补充,有，按需领取
+A-145,基于SpringBoot+Vue的智能排课系统,SpringBoot / Vue,catalog/archive-05.md#p-a-145,待补充,有，按需领取
+A-146,基于SpringBoot+Vue的智能课堂互动系统的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-146,待补充,有，按需领取
+A-147,基于SpringBoot+Vue的服装生产管理系统的设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-147,待补充,有，按需领取
+A-148,基于SpringBoot+Vue的机场航站楼设施巡检管理系统,SpringBoot / Vue,catalog/archive-05.md#p-a-148,待补充,待确认
+A-149,基于SpringBoot+Vue的校园二手书籍购物网站,SpringBoot / Vue,catalog/archive-05.md#p-a-149,待补充,有，按需领取
+A-150,基于SpringBoot+Vue的校园二手图书交易平台设计与实现,SpringBoot / Vue,catalog/archive-05.md#p-a-150,待补充,有，按需领取
+A-151,基于SpringBoot+Vue的校园兼职信息发布平台设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-151,待补充,有，按需领取
+A-152,基于SpringBoot+Vue的校园反诈宣传平台的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-152,待补充,有，按需领取
+A-153,基于SpringBoot+Vue的校园外卖配送系统的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-153,待补充,有，按需领取
+A-154,基于SpringBoot+Vue的校园安停车位预约管理系统的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-154,待补充,有，按需领取
+A-155,基于SpringBoot+Vue的校园微课资源管理与在线学习系统的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-155,待补充,有，按需领取
+A-156,基于SpringBoot+Vue的校园技能交换平台设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-156,待补充,有，按需领取
+A-157,基于SpringBoot+Vue的校园智能报修系统的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-157,待补充,有，按需领取
+A-158,基于SpringBoot+Vue的校园社交匹配平台的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-158,待补充,有，按需领取
+A-159,基于SpringBoot+Vue的校园综合学习服务平台设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-159,待补充,有，按需领取
+A-160,基于SpringBoot+Vue的校园绿色兑换平台,SpringBoot / Vue,catalog/archive-06.md#p-a-160,待补充,有，按需领取
+A-161,基于SpringBoot+Vue的校园订餐系统,SpringBoot / Vue,catalog/archive-06.md#p-a-161,待补充,有，按需领取
+A-162,基于SpringBoot+Vue的校园闲置交易系统的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-162,待补充,有，按需领取
+A-163,基于SpringBoot+Vue的校园食堂点餐系统设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-163,待补充,待确认
+A-164,基于SpringBoot+Vue的模型拼装教程网站的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-164,待补充,有，按需领取
+A-165,基于SpringBoot+Vue的毕业生就业推荐信息管理系统的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-165,待补充,有，按需领取
+A-166,基于SpringBoot+Vue的毕业生就业推荐信息管理系统（二）,SpringBoot / Vue,catalog/archive-06.md#p-a-166,待补充,有，按需领取
+A-167,基于SpringBoot+Vue的水库水位监测与管理系统需求分析,SpringBoot / Vue,catalog/archive-06.md#p-a-167,待补充,有，按需领取
+A-168,基于SpringBoot+Vue的水果蔬菜销售管理系统的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-168,待补充,有，按需领取
+A-169,基于SpringBoot+Vue的汽车服务交易系统,SpringBoot / Vue,catalog/archive-06.md#p-a-169,待补充,有，按需领取
+A-170,基于SpringBoot+Vue的河北省旅游,SpringBoot / Vue,catalog/archive-06.md#p-a-170,待补充,有，按需领取
+A-171,基于SpringBoot+Vue的流浪动物救助驿站管理系统,SpringBoot / Vue,catalog/archive-06.md#p-a-171,待补充,有，按需领取
+A-172,基于SpringBoot+Vue的游戏交易平台,SpringBoot / Vue,catalog/archive-06.md#p-a-172,待补充,有，按需领取
+A-173,基于SpringBoot+Vue的潮流玩具盲盒选购网站的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-173,待补充,有，按需领取
+A-174,基于SpringBoot+Vue的煤炭资源全生命周期管理系统设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-174,待补充,有，按需领取
+A-175,基于SpringBoot+Vue的特色农产品销售平台设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-175,待补充,有，按需领取
+A-176,基于SpringBoot+Vue的独立音乐人作品发布管理系统,SpringBoot / Vue,catalog/archive-06.md#p-a-176,待补充,待确认
+A-177,基于SpringBoot+Vue的玩具商城系统设计与开发,SpringBoot / Vue,catalog/archive-06.md#p-a-177,待补充,待确认
+A-178,基于SpringBoot+Vue的用户情感反馈的个性化音乐推荐系统的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-178,待补充,有，按需领取
+A-179,基于SpringBoot+Vue的电竞主题酒店管理系统的设计与实现,SpringBoot / Vue,catalog/archive-06.md#p-a-179,待补充,有，按需领取
+A-180,基于SpringBoot+Vue的矿区土地生态修复在线培训平台的研究与开发,SpringBoot / Vue,catalog/archive-06.md#p-a-180,待补充,待确认
+A-181,基于SpringBoot+Vue的社区人口管理系统设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-181,待补充,有，按需领取
+A-182,基于SpringBoot+Vue的社区待就业人员信息管理系统,SpringBoot / Vue,catalog/archive-07.md#p-a-182,待补充,有，按需领取
+A-183,基于SpringBoot+Vue的窗帘定制化与管理,SpringBoot / Vue,catalog/archive-07.md#p-a-183,待补充,有，按需领取
+A-184,基于SpringBoot+vue的网上二手书店管理系统的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-184,待补充,待确认
+A-185,基于SpringBoot+vue的网上二手书店管理系统的设计与开发,SpringBoot / Vue,catalog/archive-07.md#p-a-185,待补充,有，按需领取
+A-186,基于SpringBoot+Vue的网上服装商城的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-186,待补充,有，按需领取
+A-187,基于SpringBoot+Vue的网上订餐系统设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-187,待补充,有，按需领取
+A-188,基于SpringBoot+Vue的网络音乐平台的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-188,待补充,有，按需领取
+A-189,基于SpringBoot+Vue的美食生成平台,SpringBoot / Vue,catalog/archive-07.md#p-a-189,待补充,有，按需领取
+A-190,基于SpringBoot+Vue的考研资料分享与备考计划管理系统,SpringBoot / Vue,catalog/archive-07.md#p-a-190,待补充,有，按需领取
+A-191,基于SpringBoot+Vue的育婴商场系统,SpringBoot / Vue,catalog/archive-07.md#p-a-191,待补充,有，按需领取
+A-192,基于SpringBoot+Vue的药品订购系统的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-192,待补充,有，按需领取
+A-193,基于SpringBoot+Vue的藏毯销售平台,SpringBoot / Vue,catalog/archive-07.md#p-a-193,待补充,有，按需领取
+A-194,基于SpringBoot+Vue的警用装备台账管理系统设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-194,待补充,待确认
+A-195,基于SpringBoot+Vue的计科学院学生竞赛信息系统的开发与设计,SpringBoot / Vue,catalog/archive-07.md#p-a-195,待补充,待确认
+A-196,基于SpringBoot+Vue的论坛网站,SpringBoot / Vue,catalog/archive-07.md#p-a-196,待补充,有，按需领取
+A-197,基于SpringBoot+Vue的设施农业智慧生产大数据平台的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-197,待补充,待确认
+A-198,基于SpringBoot+Vue的贝壳房屋租赁系统,SpringBoot / Vue,catalog/archive-07.md#p-a-198,待补充,有，按需领取
+A-199,基于SpringBoot+Vue的足球俱乐部管理系统的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-199,待补充,有，按需领取
+A-200,基于SpringBoot+Vue的身体健康信息管理系统的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-200,待补充,待确认
+A-201,基于SpringBoot+Vue的车辆管理信息系统的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-201,待补充,待确认
+A-202,基于SpringBoot+Vue的轻量化班级作业提交与反馈系统设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-202,待补充,待确认
+A-203,基于SpringBoot+Vue的郑州经贸学院作业管理系统,SpringBoot / Vue,catalog/archive-07.md#p-a-203,待补充,有，按需领取
+A-204,基于SpringBoot+Vue的野草体育俱乐部管理平台的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-204,待补充,有，按需领取
+A-205,基于SpringBoot+Vue的闲置交易系统的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-205,待补充,待确认
+A-206,基于SpringBoot+Vue的面向大学生情感倾诉的平台设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-206,待补充,有，按需领取
+A-207,基于SpringBoot+Vue的面向高校网络舆情监控与情感分析系统的设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-207,待补充,有，按需领取
+A-208,基于SpringBoot+Vue的风电场建设工程进度管理平台的设计与开发,SpringBoot / Vue,catalog/archive-07.md#p-a-208,待补充,有，按需领取
+A-209,基于SpringBoot+vue的驾校管理系统,SpringBoot / Vue,catalog/archive-07.md#p-a-209,待补充,有，按需领取
+A-210,基于SpringBoot+Vue的高中教学效果评价系统设计与实现,SpringBoot / Vue,catalog/archive-07.md#p-a-210,待补充,有，按需领取
+A-211,基于SpringBoot+Vue的高校毕业论文管理系统,SpringBoot / Vue,catalog/archive-08.md#p-a-211,待补充,有，按需领取
+A-212,基于SpringBoot+Vue的高校社团活动管理平台设计与实现,SpringBoot / Vue,catalog/archive-08.md#p-a-212,待补充,有，按需领取
+A-213,基于SpringBoot+Vue的高校自习室预约管理系统的设计与实现,SpringBoot / Vue,catalog/archive-08.md#p-a-213,待补充,有，按需领取
+A-214,基于SpringBoot+Vue的高考志愿推荐系统设计与实现,SpringBoot / Vue,catalog/archive-08.md#p-a-214,待补充,有，按需领取
+A-215,基于SpringBoot+Vue的鲜管家生鲜冷链电商平台设计与实现,SpringBoot / Vue,catalog/archive-08.md#p-a-215,待补充,有，按需领取
+A-216,基于SpringBoot+Vue的鲜花商城,SpringBoot / Vue,catalog/archive-08.md#p-a-216,待补充,有，按需领取
+A-217,基于SpringBoot+微信小程序的中小学课后服务预约与管理系统功能设计文档,SpringBoot,catalog/archive-08.md#p-a-217,待补充,有，按需领取
+A-218,基于SpringBoot+微信小程序的健身体育用品管理系统,SpringBoot,catalog/archive-08.md#p-a-218,待补充,有，按需领取
+A-219,基于SpringBoot+微信小程序的健身房管理系统,SpringBoot,catalog/archive-08.md#p-a-219,待补充,有，按需领取
+A-220,基于SpringBoot+微信小程序的动物救助系统的设计与实现,SpringBoot,catalog/archive-08.md#p-a-220,待补充,有，按需领取
+A-221,基于SpringBoot+微信小程序的外卖点餐系统,SpringBoot,catalog/archive-08.md#p-a-221,待补充,有，按需领取
+A-222,基于SpringBoot+微信小程序的家校社管理系统,SpringBoot,catalog/archive-08.md#p-a-222,待补充,有，按需领取
+A-223,基于SpringBoot+微信小程序的帮一帮志愿者系统的设计与实现,SpringBoot,catalog/archive-08.md#p-a-223,待补充,有，按需领取
+A-224,基于SpringBoot+微信小程序的干洗店线上服务平台的设计与开发,SpringBoot,catalog/archive-08.md#p-a-224,待补充,有，按需领取
+A-225,基于SpringBoot+微信小程序的心情驿站,SpringBoot,catalog/archive-08.md#p-a-225,待补充,有，按需领取
+A-226,基于SpringBoot+微信小程序的无人零售店管理系统的设计与实现,SpringBoot,catalog/archive-08.md#p-a-226,待补充,有，按需领取
+A-227,基于SpringBoot+微信小程序的晨间餐饮管理系统的设计与实现,SpringBoot,catalog/archive-08.md#p-a-227,待补充,有，按需领取
+A-228,基于SpringBoot+微信小程序的服饰商城系统的设计与实现,SpringBoot,catalog/archive-08.md#p-a-228,待补充,有，按需领取
+A-229,基于SpringBoot+微信小程序的本地小众美食探店分享系统的设计与实现,SpringBoot,catalog/archive-08.md#p-a-229,待补充,有，按需领取
+A-230,基于SpringBoot+微信小程序的校园二手书籍交易平台设计与实现,SpringBoot,catalog/archive-08.md#p-a-230,待补充,有，按需领取
+A-231,基于SpringBoot+微信小程序的校园二手图书漂流兑换平台,SpringBoot,catalog/archive-08.md#p-a-231,待补充,有，按需领取
+A-232,基于SpringBoot+微信小程序的校园外卖柜管理系统设计与实现,SpringBoot,catalog/archive-08.md#p-a-232,待补充,有，按需领取
+A-233,基于SpringBoot+微信小程序的校园快递代取,SpringBoot,catalog/archive-08.md#p-a-233,待补充,有，按需领取
+A-234,基于SpringBoot+微信小程序的校园自习室预约系统设计与实现,SpringBoot,catalog/archive-08.md#p-a-234,待补充,有，按需领取
+A-235,基于SpringBoot+微信小程序的校园跑腿任务智能匹配系统设计与实现,SpringBoot,catalog/archive-08.md#p-a-235,待补充,有，按需领取
+A-236,基于SpringBoot+微信小程序的校园跑腿服务平台的设计与实现,SpringBoot,catalog/archive-08.md#p-a-236,待补充,有，按需领取
+A-237,基于SpringBoot+微信小程序的点餐小程序的设计与实现,SpringBoot,catalog/archive-08.md#p-a-237,待补充,有，按需领取
+A-238,基于SpringBoot+微信小程序的社区团购拼单系统设计与实现,SpringBoot,catalog/archive-08.md#p-a-238,待补充,有，按需领取
+A-239,基于SpringBoot+微信小程序的社区团购系统设计与实现,SpringBoot,catalog/archive-08.md#p-a-239,待补充,有，按需领取
+A-240,基于SpringBoot+微信小程序的社区家政服务平台的设计与实现,SpringBoot,catalog/archive-08.md#p-a-240,待补充,有，按需领取
+A-241,基于SpringBoot+微信小程序的社区慢性病管理系统,SpringBoot,catalog/archive-09.md#p-a-241,待补充,有，按需领取
+A-242,基于SpringBoot+微信小程序的租房管理系统设计与实现,SpringBoot,catalog/archive-09.md#p-a-242,待补充,有，按需领取
+A-243,基于SpringBoot+微信小程序的粮仓综合检测系统设计,SpringBoot,catalog/archive-09.md#p-a-243,待补充,有，按需领取
+A-244,基于SpringBoot+微信小程序的综合演出票务服务平台,SpringBoot,catalog/archive-09.md#p-a-244,待补充,有，按需领取
+A-245,基于SpringBoot+微信小程序的舞龙舞狮服务平台,SpringBoot,catalog/archive-09.md#p-a-245,待补充,有，按需领取
+A-246,基于SpringBoot+微信小程序的融合碳积分与绿色消费导向的校园订餐系统设计与实现,SpringBoot,catalog/archive-09.md#p-a-246,待补充,有，按需领取
+A-247,基于SpringBoot+微信小程序的警务培训管理平台设计与实现,SpringBoot,catalog/archive-09.md#p-a-247,待补充,有，按需领取
+A-248,基于SpringBoot+微信小程序的语言学习闯关小程序的设计与实现,SpringBoot,catalog/archive-09.md#p-a-248,待补充,待确认
+A-249,基于SpringBoot+微信小程序的饮食健康与管理系统的设计与实现,SpringBoot,catalog/archive-09.md#p-a-249,待补充,有，按需领取
+A-250,基于SpringBoot的学生成绩管理系统的设计与实现,SpringBoot,catalog/archive-09.md#p-a-250,待补充,待确认
+A-251,基于SpringBoot的西夏王陵景点信息管理系统,SpringBoot,catalog/archive-09.md#p-a-251,待补充,有，按需领取
+A-252,基于SSM的企业办公用品申领管理系统设计与实现,SSM,catalog/archive-09.md#p-a-252,待补充,待确认
+A-253,基于Vue的企业合同质量检测智能审核系统,Vue,catalog/archive-09.md#p-a-253,待补充,有，按需领取
+A-254,基于微信小程序的二手交易平台的设计与实现,见项目说明,catalog/archive-09.md#p-a-254,待补充,待确认
+A-255,基于微信小程序的单词记忆智能辅助小程序,见项目说明,catalog/archive-09.md#p-a-255,待补充,有，按需领取
+A-256,基于微信小程序的周边收藏社交平台,见项目说明,catalog/archive-09.md#p-a-256,待补充,有，按需领取
